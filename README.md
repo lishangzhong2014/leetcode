@@ -1,2 +1,3 @@
 # leetcode
-https://leetcode.com/
+- https://leetcode.com/
+- https://leetcode-cn.com/

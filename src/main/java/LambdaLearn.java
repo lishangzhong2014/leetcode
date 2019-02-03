@@ -4,6 +4,7 @@ import java.util.function.Predicate;
 
 /**
  * https://segmentfault.com/a/1190000009186509
+ * https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/Lambda-QuickStart/index.html
  */
 public class LambdaLearn {
     public static void main(String[] agrs) {
